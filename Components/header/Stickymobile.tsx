@@ -31,9 +31,9 @@ const Stickymobile = () => {
               <a href="#">
                 <span>
                   <Image
-                    width={14}
-                    height={14}
-                    src="/Icon awesome-search.png"
+                    width="14"
+                    height="14"
+                    src="/Icon_awesome-search.png"
                     alt="drop icon"
                   />
                 </span>

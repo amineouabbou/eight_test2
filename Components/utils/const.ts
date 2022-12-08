@@ -6,23 +6,23 @@ export const MENU_DATA = [
     title: "ACHETER",
   },
   {
-    id: 0,
+    id: 1,
     title: "VENDRE",
   },
   {
-    id: 0,
+    id: 2,
     title: "SERVICES",
   },
   {
-    id: 0,
+    id: 3,
     title: "DÉPARTEMENTS",
   },
   {
-    id: 0,
+    id: 4,
     title: "PRESSE & MÉDIAS",
   },
   {
-    id: 0,
+    id: 5,
     title: "NOTRE MAISON",
   },
 ];
@@ -33,15 +33,15 @@ export const FOOTER_LINKS_1 = [
     title: "FAQ",
   },
   {
-    id: 0,
+    id: 1,
     title: "Notre Maison",
   },
   {
-    id: 0,
+    id: 2,
     title: "Médias & Presse",
   },
   {
-    id: 0,
+    id: 3,
     title: "S’abonner à la Newsletter",
   },
 ];

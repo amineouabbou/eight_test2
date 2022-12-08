@@ -15,7 +15,7 @@ const Wishlistbox = ({ sticky }: Ipropos) => {
       }`}
     >
       <a href="#">
-        <Image src="/Icon ionic-ios-heart.png" width={15} height={14} alt="" />
+        <Image src="/Iconionic-ios-heart.png" width={15} height={14} alt="" />
       </a>
     </div>
   );

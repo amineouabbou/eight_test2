@@ -13,13 +13,13 @@ const Userbox = ({ sticky }: Ipropos) => {
       } cursor-pointer`}
     >
       <span className={`icone ml-[7px] ${sticky ? "grayscale" : ""}`}>
-        <Image src="/Icon awesome-user-alt.png" width={12} height={14} alt="" />
+        <Image src="/Iconawesome-user-alt.png" width={12} height={14} alt="" />
       </span>
       <span className={`icone ml-[7px] ${sticky ? "invert" : ""}`}>
         <Image
           width={11}
           height={7}
-          src="/Icon material-keyboard-arrow-down.svg"
+          src="/Iconmaterial-keyboard-arrow-down.svg"
           alt="drop icon"
         />
       </span>

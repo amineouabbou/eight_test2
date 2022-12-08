@@ -18,7 +18,7 @@ const Languagebox = () => {
         <Image
           width={11}
           height={7}
-          src="/Icon material-keyboard-arrow-down.svg"
+          src="/Iconmaterial-keyboard-arrow-down.svg"
           alt="drop icon"
         />
       </span>

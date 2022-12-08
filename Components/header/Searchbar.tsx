@@ -9,7 +9,7 @@ const Searchbar = () => {
           <Image
             width={14}
             height={14}
-            src="/Icon awesome-search.png"
+            src="/Icon_awesome-search.png"
             alt="drop icon"
           />
         </span>
